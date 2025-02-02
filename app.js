@@ -9,8 +9,6 @@ function agregarAmigo() {
     
     listasNombresAmigos.push(nombresAmigos);
 
-    console.log(listasNombresAmigos);
-    console.log(nombresAmigos);
     limpiarCaja();
     mostrarAmigo();
     return nombresAmigos;
